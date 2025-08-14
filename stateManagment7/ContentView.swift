@@ -61,8 +61,3 @@ struct SecondChildView: View {
 #Preview {
     ContentView()
 }
-
-
-#Preview {
-    ContentView()
-}
